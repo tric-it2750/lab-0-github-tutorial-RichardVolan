@@ -5,7 +5,7 @@ NAME: (Richard Volan)
 
 S#: (S01193954)
 
-RICHARD VOLAN HAS MADE THE NECESSARY CHANGES FOR LAB 0!
+RICHARD VOLAN HAS MADE THE NECESSARY CHANGES FOR LAB 0!  ~!:wave:!!:wave:!!:wave:!~
 
 ## 🤓 Course overview and learning outcomes 
 
