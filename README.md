@@ -5,7 +5,7 @@ NAME: (Richard Volan)
 
 S#: (S01193954)
 
-RICHARD VOLAN HAS MADE THE NECESSARY CHANGES FOR LAB 0! :wave: ! :wave: ! :wave:
+RICHARD VOLAN HAS MADE THE NECESSARY CHANGES FOR LAB 0! :wave: ! :wave: ! :wave: Second edit-Just wanted to test my understanding of editing and turning in things on GitHub Classroom
 
 ## 🤓 Course overview and learning outcomes 
 
